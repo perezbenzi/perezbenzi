@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋 I'm Fran
 
-<!--
-**perezbenzi/perezbenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer with 4+ years of experience, currently working with **React** and **Redux**.  
+I enjoy building personal projects that solve real problems in my daily life, like [Global Pocket](https://github.com/perezbenzi/global-pocket), a finance tracker I use regularly.
 
-Here are some ideas to get you started:
+I'm passionate about clean code, thoughtful UX, and exploring the latest in technology and AI — especially how artificial intelligence can enhance application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,git,vite,nextjs" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=perezbenzi&show_icons=true&theme=default&hide=issues&count_private=true" />
+
+---
+
+### 🔗 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/franciscoperezbenzi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Perez%20Benzi-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tuemail@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
