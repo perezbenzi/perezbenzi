@@ -31,6 +31,6 @@ I'm passionate about clean code, thoughtful UX, and exploring the latest in tech
 
 <p>
   <a href="mailto:perezbenzif@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tuemail@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/perezbenzif@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
