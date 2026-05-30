@@ -1,34 +1,27 @@
 ### Hi there 👋 I'm Fran
-
-I'm a frontend developer with 4+ years of experience, currently working with **React** and **Redux**.  
-I enjoy building personal projects that solve real problems in my daily life, like [Global Pocket](https://github.com/perezbenzi/global-pocket), a finance tracker I use regularly.
-
-I'm passionate about clean code, thoughtful UX, and exploring the latest in technology and AI — especially how artificial intelligence can enhance application development.
+I'm a frontend developer with 5+ years of experience, specializing in **React** and **Next.js**.  
+I enjoy building products that solve real problems. My latest project is [Baked by Clara](https://bakedbyclara.vercel.app/), a self-service ordering app for small food businesses that sell through WhatsApp or Instagram — customers browse the menu, build their cart, and at checkout get redirected to a pre-filled WhatsApp message with everything the seller needs to know. No more back-and-forth DMs.
 
 ---
 
 ### 🛠️ Tech Stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,git,vite,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,vite" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=perezbenzi&show_icons=true&theme=default&hide=issues&count_private=true" />
 
 ---
 
 ### 🔗 Connect with me
-
 <p>
   <a href="https://www.linkedin.com/in/franciscoperezbenzi/">
     <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Perez%20Benzi-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 <p>
   <a href="mailto:perezbenzif@gmail.com">
     <img src="https://img.shields.io/badge/perezbenzif@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
