@@ -11,11 +11,6 @@ I enjoy building products that solve real problems. My latest project is [Baked 
 
 ---
 
-### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=perezbenzi&show_icons=true&theme=default&hide=issues&count_private=true" />
-
----
-
 ### 🔗 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/franciscoperezbenzi/">
